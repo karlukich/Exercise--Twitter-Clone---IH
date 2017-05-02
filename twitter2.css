@@ -1,0 +1,284 @@
+.image_header {
+    background-image: url(https://pbs.twimg.com/profile_banners/507672047/1435259101/1500x500);
+    height: 360px;
+    background-size: cover;
+}
+
+.container {
+    /*margin-right: 50px;*/
+}
+
+.navbar {
+    border: 0px;
+    box-sizing: border-box;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #1da1f2;
+    border-bottom: 5px solid #1da1f2 !important;
+}
+
+.navbar-left {
+    margin-left: 35px;
+    font-size: 15px;
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+.no_padding {
+    padding: 0px;
+}
+
+.img_avatar {
+    max-width: 200px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+    border: 5px solid white;
+    border-radius: 10px;
+    z-index: 3;
+    position: absolute;
+}
+
+.logo_up {
+    top: -100px;
+    position: relative;
+    padding-left: 70px;
+}
+
+.nav_f_s {
+    height: 85px;
+}
+
+.nav_follows {
+    border: 1px solid #e1e8ed;
+    height: 73px;
+}
+
+.menu_follow {
+    height: 73px;
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+    background-color: #f5f8fa;
+    border: 1px solid #e1e8ed;
+    width: 134px;
+    height: 40px;
+}
+
+.blue_twitter {
+    color: #1da1f2;
+}
+
+.center_block {
+    background: white;
+    height: auto;
+    border: 1px solid #e1e8ed;
+    border-radius: 5px;
+}
+
+.fondo {
+    background-color: #f5f8fa;
+    height: auto;
+    padding-top: 5px;
+}
+
+.title_center {
+    border-bottom: 1px solid #e1e8ed;
+    height: 50px;
+}
+
+.right_block {
+    background-color: #e1e8ed;
+    border-bottom: 1px solid #e1e8ed;
+    height: 160px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: #66757f;
+}
+
+.right_like {
+    background: white;
+    height: auto;
+    border: 1px solid #e1e8ed;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.right_tendences {
+    background: white;
+    height: 273px;
+    border: 1px solid #e1e8ed;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.user_info {
+    background-color: #f5f8fa;
+    height: 300px;
+    /*border: 1px solid black;*/
+    margin-top: 30px;
+}
+
+.twitter_info {
+    background-color: #f5f8fa;
+    height: 100px;
+    /*border: 1px solid black;*/
+    margin-bottom: 3px;
+    padding: 8px;
+}
+
+.item {
+    height: 73px;
+    line-height: 1;
+}
+
+.item_n_t {
+    height: 50px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 300;
+}
+
+.title_1b_r {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.padding_block {
+    padding: 15px;
+}
+
+.button_register {
+    display: flex;
+    width: 100%;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.button_reg {
+    margin-top: 5px;
+    background-color: #1da1f2;
+    width: 100%;
+    height: 40px;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 4px;
+    border: 0px;
+}
+
+.right_like_title {
+    color: #66757f;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1;
+}
+
+.actualizar {
+    color: #1b95e0;
+    border: 0px;
+    font-size: 13px;
+    background-color: #fff;
+}
+
+.item_like {
+    margin-top: 8px;
+}
+
+.user_like {
+    height: 48px;
+    width: 100%;
+    padding: 5px;
+}
+
+.image_item_like {
+    border-radius: 5px;
+    float: left;
+    margin-right: 10px;
+    align-items: center;
+}
+
+.twitter_like {
+    color: #66757f;
+    font-size: 13px;
+}
+
+.twitter_info_in {
+    color: #ccd6dd;
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+.link_twitter {
+    border: 0px;
+    font-size: 13px;
+}
+
+.body_tweet {
+    margin-left: 58px;
+}
+
+.tweet {
+    padding: 12px;
+    border-bottom: 1px solid #e1e8ed;
+}
+
+.body_mess {
+    color: black;
+    font-size: 18px;
+}
+
+.link_tweet {
+    font-size: 18px;
+    color: #0084B4;
+}
+
+.link_user {
+    font-size: 14px;
+    color: #0084B4;
+}
+
+.icons_tweet {
+    padding: 7px;
+}
+
+.icon_in_tweet {
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.user_title {
+    float: left;
+}
+
+.logos {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.name_menu {
+    font-size: 12px;
+    color: #66757f;
+    text-align: center;
+}
+
+.twitter_menu {
+    font-size: 18px;
+    color: black;
+    text-align: center;
+}
+
+.twitter_menu_2 {
+    font-size: 18px;
+    color: #0084B4;
+    text-align: center;
+}
